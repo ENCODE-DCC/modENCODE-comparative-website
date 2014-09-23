@@ -147,7 +147,7 @@ We built co-expression modules by combining across-species orthology and within-
 
 ## Description
 
-We used expression patterns to align the stages in the worm and fly development, finding a novel pairing between the worm embryo and fly pupa stages, in addition to the expected embryo-to-embryo and larvae-to-larvae pairings.
+We used expression patterns to align the stages in the worm and fly development, finding a novel pairing between the worm embryo and fly pupa stages, in addition to the expected embryo-to-embryo and larvae-to-larvae pairings.  See Li et al., Genome Res. (2014) 24:1086-101. for more details.
 
 ## Data Source
 
